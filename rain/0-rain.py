@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Rain"""
+"""rain function."""
 
 
 def rain(walls):
